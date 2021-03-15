@@ -29,3 +29,4 @@ with client:
         "Yeh Raha tera telegram ka string, \nJoin @Rishisuperyogamerzin For More Support."
     )
     print("⬆ Bhencho abh apna saved msg dekh😑.")
+    print("thanks for using me new update coming soon.")
