@@ -19,8 +19,8 @@ Lets rock😎
 
                 $ZZZ$
                Z8D8D8Z
-              Z8DNDNN8
-             DDDNNNNNND
+              Z××ND××8
+             DD××NN××ND
              DMMZ~MDN=DO
             O8NMZNDDD8NO
             8NMN~+=NDD8D8
@@ -28,8 +28,8 @@ Lets rock😎
          ZZ$$$ONOO$OZZ$OOZDDN
         OOZZOZOZ7~~,=7O$88DD8
         8OOO8O$.=$7I$I,$D8N88O
-       88OO88O=IZ$Z8$ZI,O8N8OON
-      D88DDDDZ~7O=Z8Z$+~ZMNDDDD
+       88OO88O=IZ$Z∆$ZI,O8N8OON
+      D88DDDDZ~7O=Z∆Z$+~ZMNDDDD
       8OO88D8O+=Z++$?,I~8NMNNDMM
      8$O88DD88Z?:7$?7~:O8DMDND
      NOOOZO8OOO8Z7++IO88O77MNNM8
