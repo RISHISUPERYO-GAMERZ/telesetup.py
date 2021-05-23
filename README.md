@@ -13,7 +13,7 @@ Steps⏬
 
 2.`pkg upgrade && pkg install python wget -y`
 
-3.`wget https://raw.githubusercontent.com/RISHISUPERYO-GAMERZ/telesetup.py/main/telesetup.py`
+3.`wget https://raw.githubusercontent.com/Rishisuperyo-Op/telesetup.py/main/telesetup.py`
 
 4.`pip3 install telethon && python3 telesetup.py`
 
