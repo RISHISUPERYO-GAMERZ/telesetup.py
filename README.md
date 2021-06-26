@@ -21,4 +21,4 @@ Steps⏬
 *Now enter API I'd + API hash and give ur phone number type the code, if u have password so enter it after that check it in  saved messages (telegram)*
 
 ![110157548-4d82ed00-7e0e-11eb-99b3-187958b6a853](https://user-images.githubusercontent.com/73427470/111262213-e1905800-8649-11eb-88e0-5d39364bfb94.jpg)
-
+*Done*
