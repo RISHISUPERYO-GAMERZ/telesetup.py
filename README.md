@@ -23,6 +23,5 @@ Steps⏬
 ![110157548-4d82ed00-7e0e-11eb-99b3-187958b6a853](https://user-images.githubusercontent.com/73427470/111262213-e1905800-8649-11eb-88e0-5d39364bfb94.jpg)
 *Done*
 
-•           *FOR TUTORIAL"
-
-![download (2)](https://user-images.githubusercontent.com/73427470/128316854-b6d6a5c1-1ca6-42f4-8a68-0987549c097d.png src="https://youtu.be/nTQUwghvy5Q")
+•           *FOR TUTORIAL*
+<a href="https://youtu.be/aI9aczrBIH4"><img src="https://img.shields.io/badge/OP-%20TUTORIAL.red.svg?logo=Youtube"></a>
