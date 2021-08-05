@@ -24,4 +24,6 @@ Steps⏬
 *Done*
 •           *FOR TUTORIAL*
 
-[![Watch the video](https://img.youtube.com/https://youtu.be/aI9aczrBIH4)
+<a href="https://youtu.be/aI9aczrBIH4target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+<a/>
