@@ -25,4 +25,4 @@ Steps⏬
 
 •           *FOR TUTORIAL"
 
-![download (2)](https://user-images.githubusercontent.com/73427470/128316854-b6d6a5c1-1ca6-42f4-8a68-0987549c097d.png)sec="https://youtu.be/nTQUwghvy5Q"
+![download (2)](https://user-images.githubusercontent.com/73427470/128316854-b6d6a5c1-1ca6-42f4-8a68-0987549c097d.png)]src="https://youtu.be/nTQUwghvy5Q"
